@@ -4,7 +4,7 @@
 ## Project Overview
 This project presents a statistical and exploratory data analysis (EDA) of customer shopping behavior using Python. The study investigates customer demographics, purchasing behavior, customer satisfaction, seasonal trends, and payment preferences using descriptive statistics and visualization techniques.
 
-The analysis was conducted on a dataset containing **3,900 customer shopping records** and aimed to generate business insights that can support data-driven decision-making in retail and e-commerce environments.
+The analysis was conducted on a dataset containing 3,900 customer shopping records and aimed to generate business insights that can support data-driven decision-making in retail and e-commerce environments.
 
 ---
 
@@ -47,9 +47,9 @@ The analysis was conducted on a dataset containing **3,900 customer shopping rec
 ## 1. Customer Demographics
 
 ### Age Distribution
-- The average customer age was **44 years**.
-- Customer ages ranged from **18 to 70 years**.
-- The standard deviation of **15.21** indicates moderate age variability across customers.
+- The average customer age was 44 years.
+- Customer ages ranged from 18 to 70 years.
+- The standard deviation of 15.21 indicates moderate age variability across customers.
 
 ### Interpretation
 This suggests the customer base is broadly distributed across adult age groups, with middle-aged consumers forming a significant portion of the dataset.
@@ -267,28 +267,4 @@ Maintain continuous review monitoring to:
 - Improve customer satisfaction
 - Enhance product offerings
 
----
 
-# Future Improvements
-
-Potential extensions of this project include:
-
-- Predictive analytics for customer spending
-- Customer segmentation using clustering algorithms
-- Time series forecasting
-- Machine learning recommendation systems
-- Interactive Power BI dashboards
-
----
-
-# Author
-
-## Fortune Maake
-
-Aspiring Data Analyst and Data Scientist with interests in:
-- Statistical Analysis
-- Business Intelligence
-- Financial Analytics
-- Machine Learning
-- Data Visualization
-- Customer Analytics
